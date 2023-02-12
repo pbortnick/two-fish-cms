@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Heading": {
+    "heading": {
       "type": "string",
       "required": true
     }
