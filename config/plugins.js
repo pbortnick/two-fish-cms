@@ -3,7 +3,7 @@ module.exports = {
     enabled: true,
     config: {
       deployHook: 'https://api.vercel.com/v1/integrations/deploy/prj_HImwK8Ryg9P7KxzjYt7EgLsgAo1Y/ZauNyp1XsG',
-      apiToken: 'JbUTDjhfRRe8qObtPOoYXsc4',
+      apiToken: 'jtwuJhhEWpMQFx2nc3zETqH9',
       appFilter:'two-fish',
       teamFilter: 'pbortnick',
       roles: ["strapi-super-admin", "strapi-editor", "strapi-author"],
